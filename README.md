@@ -48,6 +48,8 @@ byv.ngelan(1, 5); // 'Tàʼ ŋàm ngʉ̂ mfî nyàm bαhα'
 Standard: ISO 639-3fmp
 
 #### Languages
+|Language| Code|
+|---|---|
 | Medumba | byv |  
 | Nufi    | fmp |  
 | Ghomala | bbj |
