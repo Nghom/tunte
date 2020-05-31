@@ -1,12 +1,20 @@
 {
   "name": "tunte",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.2",
+  "description": "Simple npm package for number, time and currency localization for Cameroon languages ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "Medumba",
+    "Nufi",
+    "Localization Cameroon"
+  ],
+  "author": "Ngadou Yopa",
+  "license": "3-Clause BSD",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nghom/tunte.git"
+  }
 }
