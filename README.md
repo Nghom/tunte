@@ -1,4 +1,4 @@
-# tunte 
+# tunte [![npm version](https://badge.fury.io/js/tunte.svg)](https://badge.fury.io/js/tunte) [![GitHub version](https://badge.fury.io/gh/nghom%2Ftunte.svg)](https://badge.fury.io/gh/nghom%2Ftunte)
 
 Install with `npm`:
 
@@ -48,6 +48,8 @@ byv.ngelan(1, 5); // 'Tàʼ ŋàm ngʉ̂ mfî nyàm bαhα'
 Standard: ISO 639-3fmp
 
 #### Languages
+|Language| Code|
+|---|---|
 | Medumba | byv |  
 | Nufi    | fmp |  
 | Ghomala | bbj |
