@@ -60,10 +60,6 @@ Reference: https://www.ethnologue.com/country/cm/languages
 
 If you wish to report a bug, please feel free to open an issue  
 
-Want to request a feature? Open an issue too 
-
-Want to contribute code? Join us on [our chat server](http://chat.nghom.com)
-
-Want to support us financially? Please leave your details so we contact you at [info@nghom.com](mailto:info@nghom.com)
+Want to request a feature? Open an issue [here](https://github.com/Nghom/tunte/issues) 
 
 If you want faster feedback or wish a custom development, please kindly email me at nyopa@ngadou.me
