@@ -1,4 +1,4 @@
-# tunte 
+# tunte [![npm version](https://badge.fury.io/js/tunte.svg)](https://badge.fury.io/js/tunte) [![GitHub version](https://badge.fury.io/gh/nghom%2Ftunte.svg)](https://badge.fury.io/gh/nghom%2Ftunte)
 
 Install with `npm`:
 
@@ -48,6 +48,8 @@ byv.ngelan(1, 5); // 'Tàʼ ŋàm ngʉ̂ mfî nyàm bαhα'
 Standard: ISO 639-3fmp
 
 #### Languages
+|Language| Code|
+|---|---|
 | Medumba | byv |  
 | Nufi    | fmp |  
 | Ghomala | bbj |
@@ -58,10 +60,6 @@ Reference: https://www.ethnologue.com/country/cm/languages
 
 If you wish to report a bug, please feel free to open an issue  
 
-Want to request a feature? Open an issue too 
-
-Want to contribute code? Join us on [our chat server](http://chat.nghom.com)
-
-Want to support us financially? Please leave your details so we contact you at [info@nghom.com](mailto:info@nghom.com)
+Want to request a feature? Open an issue [here](https://github.com/Nghom/tunte/issues) 
 
 If you want faster feedback or wish a custom development, please kindly email me at nyopa@ngadou.me
